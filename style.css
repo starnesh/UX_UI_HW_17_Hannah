@@ -1,0 +1,41 @@
+body{font-family: 'Open Sans', sans-serif;
+}
+
+.inline-block{
+    display:inline-block;
+    vertical-align: top;
+    width: 50%;
+}
+
+.HannahLogo{
+    width: 23%;
+    padding: 1%;
+    text-align: center;
+}
+
+nav{
+    width: 73%; padding: 1%;
+}
+
+.HeroImage{
+    height: 250px;
+    padding: 25px;
+}
+
+p{
+    width: 1300;
+    padding: 25px;}
+
+footer{
+    background-color:  #373738;
+}
+
+.footer-nav{
+    padding: 1%;
+    display: inline-block;
+    position: relative;
+}
+
+li{padding: 1%;
+    text-align: center;
+}
